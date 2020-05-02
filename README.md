@@ -1,5 +1,6 @@
 # The cookie jar
 
+![screenshot](screenshot.png)
 
 ## Installation Guide
 * git clone this repo
